@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SolidEdgeRadialMenuCustomization CompactMode="1" NumThemes="1" SEVersion="106">
+	<Theme Name="SolidEdgeテーマ" Active="1" NumEnvironments="28">
+		<Environment Name="Assembly" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198416" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="45027" ImageID="45027"/>
+						<Wedge ID="4" CmdID="10350" ImageID="10350"/>
+						<Wedge ID="5" CmdID="32772" ImageID="32772"/>
+						<Wedge ID="6" CmdID="25081" ImageID="25081"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="33054" ImageID="33054"/>
+						<Wedge ID="12" CmdID="39002" ImageID="39002"/>
+						<Wedge ID="13" CmdID="10417" ImageID="10417"/>
+						<Wedge ID="14" CmdID="25080" ImageID="25080"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10240" ImageID="10240"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198432" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="25101" ImageID="25101"/>
+						<Wedge ID="5" CmdID="32922" ImageID="32922"/>
+						<Wedge ID="6" CmdID="57083" ImageID="57083"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="32788" ImageID="32788"/>
+						<Wedge ID="13" CmdID="32921" ImageID="32921"/>
+						<Wedge ID="14" CmdID="32784" ImageID="32784"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="32986" ImageID="32986"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - 2D Model" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198448" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="10939" ImageID="10939"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10971" ImageID="10971"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Broken Out Section" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198464" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10957" ImageID="10957"/>
+						<Wedge ID="5" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="6" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="10956" ImageID="10956"/>
+						<Wedge ID="12" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="13" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="14" CmdID="10945" ImageID="10945"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Create 2D Model" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198480" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="33500" ImageID="33500"/>
+						<Wedge ID="4" CmdID="25046" ImageID="25046"/>
+						<Wedge ID="5"/>
+						<Wedge ID="6"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="32876" ImageID="32876"/>
+						<Wedge ID="12"/>
+						<Wedge ID="13"/>
+						<Wedge ID="14"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Cutting Plane Line" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198496" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10957" ImageID="10957"/>
+						<Wedge ID="5" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="6" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="10956" ImageID="10956"/>
+						<Wedge ID="12" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="13" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="14" CmdID="10945" ImageID="10945"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Detail Envelope" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198512" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10957" ImageID="10957"/>
+						<Wedge ID="5" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="6" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="10956" ImageID="10956"/>
+						<Wedge ID="12" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="13" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="14" CmdID="10945" ImageID="10945"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Draft View" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198528" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Draw in View" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198544" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Open Block" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198560" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="10330" ImageID="10330"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Explode Render Animate" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198576" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="32826" ImageID="32826"/>
+						<Wedge ID="4" CmdID="65062" ImageID="65062"/>
+						<Wedge ID="5" CmdID="65066" ImageID="65066"/>
+						<Wedge ID="6" CmdID="65069" ImageID="65069"/>
+						<Wedge ID="7" CmdID="40264" ImageID="40264"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="33097" ImageID="33097"/>
+						<Wedge ID="12" CmdID="65064" ImageID="65064"/>
+						<Wedge ID="13" CmdID="65067" ImageID="65067"/>
+						<Wedge ID="14" CmdID="65065" ImageID="65065"/>
+						<Wedge ID="15" CmdID="40265" ImageID="40265"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Frame" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198592" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="32826" ImageID="32826"/>
+						<Wedge ID="4" CmdID="33111" ImageID="33111"/>
+						<Wedge ID="5" CmdID="65078" ImageID="65078"/>
+						<Wedge ID="6" CmdID="37018" ImageID="37018"/>
+						<Wedge ID="7" CmdID="65092" ImageID="65092"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="33054" ImageID="33054"/>
+						<Wedge ID="12" CmdID="65074" ImageID="65074"/>
+						<Wedge ID="13" CmdID="65077" ImageID="65077"/>
+						<Wedge ID="14" CmdID="10350" ImageID="10350"/>
+						<Wedge ID="15" CmdID="25070" ImageID="25070"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Harness Design" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198608" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="32826" ImageID="32826"/>
+						<Wedge ID="4" CmdID="45168" ImageID="45168"/>
+						<Wedge ID="5" CmdID="45165" ImageID="45165"/>
+						<Wedge ID="6" CmdID="45167" ImageID="45167"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="33054" ImageID="33054"/>
+						<Wedge ID="12" CmdID="33126" ImageID="33126"/>
+						<Wedge ID="13" CmdID="45166" ImageID="45166"/>
+						<Wedge ID="14" CmdID="10350" ImageID="10350"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Model View - Part" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198624" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="10110" ImageID="10110"/>
+						<Wedge ID="4" CmdID="10071" ImageID="10071"/>
+						<Wedge ID="5" CmdID="10075" ImageID="10075"/>
+						<Wedge ID="6" CmdID="10093" ImageID="10093"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="10119" ImageID="10119"/>
+						<Wedge ID="12" CmdID="10070" ImageID="10070"/>
+						<Wedge ID="13" CmdID="10077" ImageID="10077"/>
+						<Wedge ID="14" CmdID="10180" ImageID="10180"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Model View - Assembly" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198640" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="10110" ImageID="10110"/>
+						<Wedge ID="4" CmdID="10071" ImageID="10071"/>
+						<Wedge ID="5" CmdID="10075" ImageID="10075"/>
+						<Wedge ID="6" CmdID="10093" ImageID="10093"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="10119" ImageID="10119"/>
+						<Wedge ID="12" CmdID="10070" ImageID="10070"/>
+						<Wedge ID="13" CmdID="10077" ImageID="10077"/>
+						<Wedge ID="14" CmdID="10180" ImageID="10180"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Part - Ordered" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198656" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="58111" ImageID="58111"/>
+						<Wedge ID="4" CmdID="45002" ImageID="45002"/>
+						<Wedge ID="5" CmdID="45003" ImageID="45003"/>
+						<Wedge ID="6" CmdID="45007" ImageID="45007"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="45026" ImageID="45026"/>
+						<Wedge ID="12" CmdID="45001" ImageID="45001"/>
+						<Wedge ID="13" CmdID="45008" ImageID="45008"/>
+						<Wedge ID="14" CmdID="45006" ImageID="45006"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Part - Synchronous" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198672" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10295" ImageID="10295"/>
+						<Wedge ID="5" CmdID="45201" ImageID="45201"/>
+						<Wedge ID="6" CmdID="10413" ImageID="10413"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="10307" ImageID="10307"/>
+						<Wedge ID="13" CmdID="45007" ImageID="45007"/>
+						<Wedge ID="14" CmdID="10437" ImageID="10437"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Profile/Sketch" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198688" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="10939" ImageID="10939"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="10944" ImageID="10944"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10677"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Sheet Metal - Ordered" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198704" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="58111" ImageID="58111"/>
+						<Wedge ID="4" CmdID="57700" ImageID="57700"/>
+						<Wedge ID="5" CmdID="57702" ImageID="57702"/>
+						<Wedge ID="6" CmdID="57711" ImageID="57711"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="45026" ImageID="45026"/>
+						<Wedge ID="12" CmdID="57701" ImageID="57701"/>
+						<Wedge ID="13" CmdID="57706" ImageID="57706"/>
+						<Wedge ID="14" CmdID="45003" ImageID="45003"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Sheet Metal - Synchronous" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198720" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10642" ImageID="10642"/>
+						<Wedge ID="5" CmdID="10655" ImageID="10655"/>
+						<Wedge ID="6" CmdID="45017" ImageID="45017"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="10626" ImageID="10626"/>
+						<Wedge ID="13" CmdID="10307" ImageID="10307"/>
+						<Wedge ID="14" CmdID="10437" ImageID="10437"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Simply Motion" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198736" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="32826" ImageID="32826"/>
+						<Wedge ID="4" CmdID="258" ImageID="9" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="9"/>
+						<Wedge ID="5" CmdID="259" ImageID="19" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="19"/>
+						<Wedge ID="6" CmdID="266" ImageID="40" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="40"/>
+						<Wedge ID="7" CmdID="267" ImageID="41" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="41"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="257" ImageID="8" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="8"/>
+						<Wedge ID="12" CmdID="251" ImageID="2" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="2"/>
+						<Wedge ID="13" CmdID="261" ImageID="35" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="35"/>
+						<Wedge ID="14" CmdID="264" ImageID="38" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="38"/>
+						<Wedge ID="15" CmdID="265" ImageID="39" CLSID="{E83BFB09-094F-11D3-9264-00C04F79BE98}" Addin_CmdID="39"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Simulation Results - Assembly" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198752" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="10541" ImageID="10541"/>
+						<Wedge ID="4" CmdID="10555" ImageID="10555"/>
+						<Wedge ID="5" CmdID="10558" ImageID="10558"/>
+						<Wedge ID="6"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8" CmdID="10684" ImageID="10684"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="10556" ImageID="10556"/>
+						<Wedge ID="12" CmdID="10683" ImageID="10683"/>
+						<Wedge ID="13"/>
+						<Wedge ID="14"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Simulation Results - Part" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198768" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="10541" ImageID="10541"/>
+						<Wedge ID="4" CmdID="10555" ImageID="10555"/>
+						<Wedge ID="5" CmdID="10558" ImageID="10558"/>
+						<Wedge ID="6"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8" CmdID="10684" ImageID="10684"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="10556" ImageID="10556"/>
+						<Wedge ID="12" CmdID="10683" ImageID="10683"/>
+						<Wedge ID="13"/>
+						<Wedge ID="14"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Weldment" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198784" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="40280" ImageID="40280"/>
+						<Wedge ID="4" CmdID="45061" ImageID="45061"/>
+						<Wedge ID="5" CmdID="45060" ImageID="45060"/>
+						<Wedge ID="6" CmdID="57660" ImageID="57660"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="45026" ImageID="45026"/>
+						<Wedge ID="12" CmdID="45008" ImageID="45008"/>
+						<Wedge ID="13" CmdID="57655" ImageID="57655"/>
+						<Wedge ID="14" CmdID="57658" ImageID="57658"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="XpresRoute" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198800" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="32826" ImageID="32826"/>
+						<Wedge ID="4" CmdID="33111" ImageID="33111"/>
+						<Wedge ID="5" CmdID="65078" ImageID="65078"/>
+						<Wedge ID="6" CmdID="65080" ImageID="65080"/>
+						<Wedge ID="7" CmdID="65092" ImageID="65092"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="33054" ImageID="33054"/>
+						<Wedge ID="12" CmdID="65074" ImageID="65074"/>
+						<Wedge ID="13" CmdID="65077" ImageID="65077"/>
+						<Wedge ID="14" CmdID="40100" ImageID="40100"/>
+						<Wedge ID="15" CmdID="65076" ImageID="65076"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="No Document" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198816" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1"/>
+						<Wedge ID="2"/>
+						<Wedge ID="3"/>
+						<Wedge ID="4"/>
+						<Wedge ID="5"/>
+						<Wedge ID="6"/>
+						<Wedge ID="7"/>
+						<Wedge ID="8"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9"/>
+						<Wedge ID="10"/>
+						<Wedge ID="11"/>
+						<Wedge ID="12"/>
+						<Wedge ID="13"/>
+						<Wedge ID="14"/>
+						<Wedge ID="15"/>
+						<Wedge ID="16"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Draft - Edit Block In-Place" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198832" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="10201" ImageID="10201"/>
+						<Wedge ID="2" CmdID="10202" ImageID="10202"/>
+						<Wedge ID="3" CmdID="25010" ImageID="25010"/>
+						<Wedge ID="4" CmdID="10622" ImageID="10622"/>
+						<Wedge ID="5" CmdID="10940" ImageID="10940"/>
+						<Wedge ID="6" CmdID="11119" ImageID="11119"/>
+						<Wedge ID="7" CmdID="10914" ImageID="10914"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="10203" ImageID="10203"/>
+						<Wedge ID="11" CmdID="25011" ImageID="25011"/>
+						<Wedge ID="12" CmdID="25016" ImageID="25016"/>
+						<Wedge ID="13" CmdID="10941" ImageID="10941"/>
+						<Wedge ID="14" CmdID="11120" ImageID="11120"/>
+						<Wedge ID="15" CmdID="10917" ImageID="10917"/>
+						<Wedge ID="16" CmdID="10231" ImageID="10231"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+		<Environment Name="Simplified Assembly Part" NumContext="1">
+			<Context Name="BaseLineBaseLine" NumPallets="1">
+				<Pallet ID="4198848" NumRings="2">
+					<Ring NumWedges="8">
+						<Wedge ID="1" CmdID="25049" ImageID="25049"/>
+						<Wedge ID="2" CmdID="32821" ImageID="32821"/>
+						<Wedge ID="3" CmdID="58111" ImageID="58111"/>
+						<Wedge ID="4" CmdID="45002" ImageID="45002"/>
+						<Wedge ID="5" CmdID="11124" ImageID="11124"/>
+						<Wedge ID="6" CmdID="40267" ImageID="40267"/>
+						<Wedge ID="7" CmdID="10091" ImageID="10091"/>
+						<Wedge ID="8" CmdID="45000" ImageID="45000"/>
+					</Ring>
+					<Ring NumWedges="8">
+						<Wedge ID="9" CmdID="32820" ImageID="32820"/>
+						<Wedge ID="10" CmdID="32818" ImageID="32818"/>
+						<Wedge ID="11" CmdID="45026" ImageID="45026"/>
+						<Wedge ID="12" CmdID="45001" ImageID="45001"/>
+						<Wedge ID="13" CmdID="45008" ImageID="45008"/>
+						<Wedge ID="14" CmdID="11158" ImageID="11158"/>
+						<Wedge ID="15" CmdID="10092" ImageID="10092"/>
+						<Wedge ID="16" CmdID="10810" ImageID="10810"/>
+					</Ring>
+				</Pallet>
+			</Context>
+		</Environment>
+	</Theme>
+</SolidEdgeRadialMenuCustomization>

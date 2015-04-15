@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DockingPaneLayouts CompactMode="1">
+	<DMSheetMetal>
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edge Help\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Learn Solid Edge\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="PromptBar\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="200" Options="32" DockingHolder="22" FloatingHolder="37" LastHolder="37"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="Feature Library\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="Family of Parts\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="Layers\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="Sensors\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="Feature Playback\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="Simulation\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="4" Selected="16" Pane-1="1" Pane-2="2" Pane-3="15" Pane-4="16"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="807" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="5" Direction="0" Panes="1" Pane-1="34"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="13" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-35 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="36"/>
+		<Pane-36 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</DMSheetMetal>
+	<DMSheetMetal-IPA>
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edge Help\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Learn Solid Edge\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="PromptBar\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="22" FloatingHolder="37" LastHolder="37"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="Feature Library\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="Family of Parts\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="Layers\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="Sensors\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="Feature Playback\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="Simulation\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="4" Selected="16" Pane-1="1" Pane-2="2" Pane-3="15" Pane-4="16"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="807" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="5" Direction="0" Panes="1" Pane-1="34"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="13" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-35 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="36"/>
+		<Pane-36 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</DMSheetMetal-IPA>
+	<SimplifiedAssemblyPart-IPA>
+		<Summary Panes="35" TopContainer="18" Client="25"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edge Help\n\n" ID="401" DockingHolder="26" LastHolder="26"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Learn Solid Edge\n\n" ID="403" DockingHolder="26" LastHolder="26"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="27" LastHolder="27"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="PromptBar\n\n" ID="402" DockingHolder="28" LastHolder="28" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="\n\n" ID="400" Options="1" DockingHolder="22" LastHolder="22"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="29" LastHolder="29"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="21" FloatingHolder="33" LastHolder="33"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="Feature Library\n\n" ID="202" DockingHolder="20" LastHolder="20"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="Family of Parts\n\n" ID="203" DockingHolder="20" LastHolder="20"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="Layers\n\n" ID="207" DockingHolder="20" LastHolder="20"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="Sensors\n\n" ID="204" DockingHolder="20" LastHolder="20"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="Feature Playback\n\n" ID="201" DockingHolder="20" LastHolder="20"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="Simulation\n\n" ID="210" DockingHolder="20" LastHolder="20"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="19" LastHolder="19"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="30" LastHolder="30"/>
+		<Pane-16 Type="5" Direction="1" Panes="1" Pane-1="17"/>
+		<Pane-17 Type="1" DockingCX="650" DockingCY="600" Panes="4" Selected="15" Pane-1="1" Pane-2="2" Pane-3="6" Pane-4="15"/>
+		<Pane-18 Type="2" Horiz="1" Panes="7" Pane-1="19" Pane-2="20" Pane-3="21" Pane-4="22" Pane-5="23" Pane-6="29" Pane-7="30"/>
+		<Pane-19 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-20 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-23 Type="2" Panes="2" Pane-1="24" Pane-2="28"/>
+		<Pane-24 Type="2" DockingCY="807" Horiz="1" Panes="3" Pane-1="25" Pane-2="26" Pane-3="27"/>
+		<Pane-25 Type="4" DockingCX="590"/>
+		<Pane-26 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-27 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-29 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="32"/>
+		<Pane-32 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="33"/>
+		<Pane-33 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-34 Type="5" Direction="0" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+	</SimplifiedAssemblyPart-IPA>
+	<FEAResultsAsm>
+		<Summary Panes="53" TopContainer="28" Client="37"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edge Help\n\n" ID="401" DockingHolder="38" LastHolder="38"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="38" LastHolder="38"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="39" LastHolder="39"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="PromptBar\n\n" ID="402" DockingHolder="40" LastHolder="40" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="Select\n\n" ID="400" Options="1" DockingHolder="34" LastHolder="34"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="41" LastHolder="41"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="200" Options="32" DockingHolder="33" FloatingHolder="50" LastHolder="50"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="Feature Library\n\n" ID="202" DockingHolder="32" LastHolder="32"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="Family of Parts\n\n" ID="203" DockingHolder="32" LastHolder="32"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="Layers\n\n" ID="207" DockingHolder="30" LastHolder="30"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="Sensors\n\n" ID="204" DockingHolder="32" LastHolder="32"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="Feature Playback\n\n" ID="201" DockingHolder="32" LastHolder="32"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="Simulation\n\n" ID="210" DockingHolder="32" LastHolder="32"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="31" LastHolder="31"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="42" LastHolder="42"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="43" LastHolder="43"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" DockingHolder="29" FloatingHolder="53" LastHolder="29"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="Parts Library\n\n" ID="101" DockingHolder="30" LastHolder="30"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="Alternate Assemblies\n\n" ID="104" DockingHolder="30" LastHolder="30"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="Sensors\n\n" ID="102" DockingHolder="30" LastHolder="30"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="Select Tools\n\n" ID="103" DockingHolder="30" LastHolder="30"/>
+		<Pane-22 Type="0" DockingCX="225" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="116" DockingHolder="29" FloatingHolder="53" LastHolder="29"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="Simulation\n\n" ID="115" DockingHolder="29" FloatingHolder="53" LastHolder="29"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="44" LastHolder="44"/>
+		<Pane-25 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="45" LastHolder="45"/>
+		<Pane-26 Type="5" Direction="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="1" Pane-1="1" Pane-2="2" Pane-3="25"/>
+		<Pane-28 Type="2" Horiz="1" Panes="12" Pane-1="29" Pane-2="30" Pane-3="31" Pane-4="32" Pane-5="33" Pane-6="34" Pane-7="35" Pane-8="41" Pane-9="42" Pane-10="43" Pane-11="44" Pane-12="45"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-35 Type="2" DockingCX="1099" Panes="2" Pane-1="36" Pane-2="40"/>
+		<Pane-36 Type="2" DockingCY="776" Horiz="1" Panes="3" Pane-1="37" Pane-2="38" Pane-3="39"/>
+		<Pane-37 Type="4" DockingCX="590"/>
+		<Pane-38 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-41 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-42 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-43 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-44 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-45 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-46 Type="5" Direction="0" Panes="1" Pane-1="47"/>
+		<Pane-47 Type="1" DockingCX="225" DockingCY="600" Panes="3" Selected="17" Pane-1="17" Pane-2="23" Pane-3="22"/>
+		<Pane-48 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="49"/>
+		<Pane-49 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="50"/>
+		<Pane-50 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-51 Type="3" WindowRectTopPos="154" WindowRectBottomPos="926" WindowRectLeftPos="414" WindowRectRightPos="664" TopContaner="52"/>
+		<Pane-52 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="53"/>
+		<Pane-53 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+	</FEAResultsAsm>
+	<LayoutOptions TimeStamp="7" ModelingEnv="0" ShowCmdTips="0" PathfinderTransparent="1" PathfinderTextMode="0" PathfinderFloatingRectLeft="630" PathfinderFloatingRectRight="880" PathfinderFloatingRectTop="180" PathfinderFloatingRectBottom="1461" PathfinderMagnetizedWidth="429" PathfinderMagnetizedTop="174" PathfinderMagnetize="35" DisplayTooltips="1" CommandBarMode="1" LRTransInView="1" LRPanelVertical="0" ProfileNewWindow="0" Orient3DViewNormalToProfilePlane="1" DisplayVScroll="0" DisplayHScroll="0" DefaultDockingPaneDirection="0"/>
+	<TwoDModel OutOfBox="0">
+		<Summary Panes="60" TopContainer="33" Client="44"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="45" LastHolder="45"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="45" LastHolder="45"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="46" LastHolder="46"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="47" LastHolder="47" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="閉じる(C)\n\n" ID="400" Options="1" DockingHolder="41" LastHolder="41"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="48" LastHolder="48"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="40" FloatingHolder="57" LastHolder="57"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="39" LastHolder="39"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="39" LastHolder="39"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="36" LastHolder="36"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="39" LastHolder="39"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="39" LastHolder="39"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="39" LastHolder="39"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="38" LastHolder="38"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="49" LastHolder="49"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="50" LastHolder="50"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="37" FloatingHolder="60" LastHolder="60"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="36" LastHolder="36"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="104" DockingHolder="36" LastHolder="36"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="36" LastHolder="36"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="103" DockingHolder="36" LastHolder="36"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="116" DockingHolder="35" LastHolder="35"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="36" LastHolder="36"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="51" LastHolder="51"/>
+		<Pane-25 Type="0" DockingCX="225" DockingCY="600" Title="ライブラリ\n\n" ID="302" DockingHolder="34" LastHolder="34"/>
+		<Pane-26 Type="0" DockingCX="225" DockingCY="600" Title="グループ\n\n" ID="300" DockingHolder="34" LastHolder="34"/>
+		<Pane-27 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="301" DockingHolder="34" LastHolder="34"/>
+		<Pane-28 Type="0" DockingCX="225" DockingCY="600" Title="クエリー\n\n" ID="303" DockingHolder="34" LastHolder="34"/>
+		<Pane-29 Type="0" DockingCX="225" DockingCY="600" Title="Teamcenterライブラリ\n\n" ID="304" DockingHolder="34" LastHolder="34"/>
+		<Pane-30 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="52" LastHolder="52"/>
+		<Pane-31 Type="5" Direction="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="2" Pane-1="2" Pane-2="30"/>
+		<Pane-33 Type="2" Horiz="1" Panes="14" Pane-1="34" Pane-2="35" Pane-3="36" Pane-4="37" Pane-5="38" Pane-6="39" Pane-7="40" Pane-8="41" Pane-9="42" Pane-10="48" Pane-11="49" Pane-12="50" Pane-13="51" Pane-14="52"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-38 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-42 Type="2" DockingCX="2288" Panes="2" Pane-1="43" Pane-2="47"/>
+		<Pane-43 Type="2" DockingCY="1283" Horiz="1" Panes="3" Pane-1="44" Pane-2="45" Pane-3="46"/>
+		<Pane-44 Type="4" DockingCX="590"/>
+		<Pane-45 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-48 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-49 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-50 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-51 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-52 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-53 Type="5" Direction="0" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="600" Panes="4" Selected="27" Pane-1="25" Pane-2="26" Pane-3="27" Pane-4="28"/>
+		<Pane-55 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="56"/>
+		<Pane-56 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="57"/>
+		<Pane-57 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-58 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="59"/>
+		<Pane-59 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="60"/>
+		<Pane-60 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+	</TwoDModel>
+	<DMPart OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="閉じる(C)\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="1" Selected="16" Pane-1="16"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="1308" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="171" WindowRectBottomPos="1475" WindowRectLeftPos="628" WindowRectRightPos="1185" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="6" Selected="9" Pane-1="10" Pane-2="11" Pane-3="12" Pane-4="14" Pane-5="8" Pane-6="9"/>
+	</DMPart>
+	<Harness OutOfBox="0">
+		<Summary Panes="54" TopContainer="28" Client="38"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="39" LastHolder="39"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="39" LastHolder="39"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="40" LastHolder="40"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="41" LastHolder="41" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="35" LastHolder="35"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="42" LastHolder="42"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="34" FloatingHolder="51" LastHolder="51"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="33" LastHolder="33"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="33" LastHolder="33"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="30" LastHolder="30"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="33" LastHolder="33"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="33" LastHolder="33"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="33" LastHolder="33"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="32" LastHolder="32"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="43" LastHolder="43"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="44" LastHolder="44"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="100" Options="32" DockingHolder="31" FloatingHolder="54" LastHolder="54"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="30" LastHolder="30"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="オルタネイトアセンブリ\n\n" ID="104" DockingHolder="30" LastHolder="30"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="30" LastHolder="30"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="選択のツール\n\n" ID="103" DockingHolder="30" LastHolder="30"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="116" DockingHolder="29" LastHolder="29"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="30" LastHolder="30"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="45" LastHolder="45"/>
+		<Pane-25 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="46" LastHolder="46"/>
+		<Pane-26 Type="5" Direction="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="1" Selected="25" Pane-1="25"/>
+		<Pane-28 Type="2" Horiz="1" Panes="13" Pane-1="29" Pane-2="30" Pane-3="31" Pane-4="32" Pane-5="33" Pane-6="34" Pane-7="35" Pane-8="36" Pane-9="42" Pane-10="43" Pane-11="44" Pane-12="45" Pane-13="46"/>
+		<Pane-29 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-36 Type="2" DockingCX="1006" Panes="2" Pane-1="37" Pane-2="41"/>
+		<Pane-37 Type="2" DockingCY="1308" Horiz="1" Panes="3" Pane-1="38" Pane-2="39" Pane-3="40"/>
+		<Pane-38 Type="4" DockingCX="1239"/>
+		<Pane-39 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-42 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-43 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-44 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-45 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="5" Direction="0" Panes="1" Pane-1="48"/>
+		<Pane-48 Type="1" DockingCX="225" DockingCY="600" Panes="3" Selected="18" Pane-1="18" Pane-2="20" Pane-3="21"/>
+		<Pane-49 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="50"/>
+		<Pane-50 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="51"/>
+		<Pane-51 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-52 Type="3" WindowRectTopPos="171" WindowRectBottomPos="1475" WindowRectLeftPos="637" WindowRectRightPos="1194" TopContaner="53"/>
+		<Pane-53 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="17" Pane-1="17"/>
+	</Harness>
+	<FEAResultsPart-IPA OutOfBox="0">
+		<Summary Panes="32" TopContainer="16" Client="22"/>
+		<Pane-1 Type="0" DockingCX="350" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-2 Type="0" DockingCX="350" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-3 Type="0" DockingCX="350" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="23" LastHolder="23" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="19" LastHolder="19"/>
+		<Pane-6 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-14 Type="5" Direction="1" Panes="1" Pane-1="15"/>
+		<Pane-15 Type="1" DockingCX="350" DockingCY="200" Panes="2" Selected="3" Pane-1="2" Pane-2="3"/>
+		<Pane-16 Type="2" Horiz="1" Panes="5" Pane-1="17" Pane-2="18" Pane-3="19" Pane-4="20" Pane-5="24"/>
+		<Pane-17 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-18 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-19 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-20 Type="2" DockingCX="1099" Panes="2" Pane-1="21" Pane-2="23"/>
+		<Pane-21 Type="2" DockingCY="1291" Horiz="1" Panes="1" Pane-1="22"/>
+		<Pane-22 Type="4" DockingCX="590"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-24 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-25 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="26"/>
+		<Pane-26 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="5" Direction="0" Panes="1" Pane-1="29"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="600" Panes="3" Selected="12" Pane-1="6" Pane-2="13" Pane-3="12"/>
+		<Pane-30 Type="3" WindowRectTopPos="195" WindowRectBottomPos="395" WindowRectLeftPos="641" WindowRectRightPos="991" ExpandedHeight="200" TopContaner="31"/>
+		<Pane-31 Type="2" DockingCX="350" DockingCY="200" Horiz="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+	</FEAResultsPart-IPA>
+	<Tubing OutOfBox="0">
+		<Summary Panes="54" TopContainer="28" Client="38"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="39" LastHolder="39"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="39" LastHolder="39"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="40" LastHolder="40"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="41" LastHolder="41" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="35" LastHolder="35"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="42" LastHolder="42"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="34" FloatingHolder="51" LastHolder="51"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="33" LastHolder="33"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="33" LastHolder="33"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="30" LastHolder="30"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="33" LastHolder="33"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="33" LastHolder="33"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="33" LastHolder="33"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="32" LastHolder="32"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="43" LastHolder="43"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="44" LastHolder="44"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="100" Options="32" DockingHolder="31" FloatingHolder="54" LastHolder="54"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="30" LastHolder="30"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="オルタネイトアセンブリ\n\n" ID="104" DockingHolder="30" LastHolder="30"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="30" LastHolder="30"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="選択のツール\n\n" ID="103" DockingHolder="30" LastHolder="30"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="116" DockingHolder="29" LastHolder="29"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="30" LastHolder="30"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="45" LastHolder="45"/>
+		<Pane-25 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="46" LastHolder="46"/>
+		<Pane-26 Type="5" Direction="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="2" Pane-1="25" Pane-2="2"/>
+		<Pane-28 Type="2" Horiz="1" Panes="13" Pane-1="29" Pane-2="30" Pane-3="31" Pane-4="32" Pane-5="33" Pane-6="34" Pane-7="35" Pane-8="36" Pane-9="42" Pane-10="43" Pane-11="44" Pane-12="45" Pane-13="46"/>
+		<Pane-29 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-36 Type="2" DockingCX="1006" Panes="2" Pane-1="37" Pane-2="41"/>
+		<Pane-37 Type="2" DockingCY="1290" Horiz="1" Panes="3" Pane-1="38" Pane-2="39" Pane-3="40"/>
+		<Pane-38 Type="4" DockingCX="1239"/>
+		<Pane-39 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-42 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-43 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-44 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-45 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="5" Direction="0" Panes="1" Pane-1="48"/>
+		<Pane-48 Type="1" DockingCX="225" DockingCY="600" Panes="5" Selected="18" Pane-1="18" Pane-2="19" Pane-3="10" Pane-4="20" Pane-5="21"/>
+		<Pane-49 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="50"/>
+		<Pane-50 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="51"/>
+		<Pane-51 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-52 Type="3" WindowRectTopPos="216" WindowRectBottomPos="1462" WindowRectLeftPos="721" WindowRectRightPos="1230" TopContaner="53"/>
+		<Pane-53 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="17" Pane-1="17"/>
+	</Tubing>
+	<FEAResultsPart OutOfBox="0">
+		<Summary Panes="32" TopContainer="16" Client="22"/>
+		<Pane-1 Type="0" DockingCX="350" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-2 Type="0" DockingCX="350" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-3 Type="0" DockingCX="350" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="24" FloatingHolder="32" LastHolder="24"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="23" LastHolder="23" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="19" LastHolder="19"/>
+		<Pane-6 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="18" FloatingHolder="27" LastHolder="27"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="17" FloatingHolder="27" LastHolder="17"/>
+		<Pane-14 Type="5" Direction="1" Panes="1" Pane-1="15"/>
+		<Pane-15 Type="1" DockingCX="350" DockingCY="200" Panes="2" Selected="2" Pane-1="3" Pane-2="2"/>
+		<Pane-16 Type="2" Horiz="1" Panes="5" Pane-1="17" Pane-2="18" Pane-3="19" Pane-4="20" Pane-5="24"/>
+		<Pane-17 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-18 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-19 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-20 Type="2" DockingCX="1099" Panes="2" Pane-1="21" Pane-2="23"/>
+		<Pane-21 Type="2" DockingCY="1290" Horiz="1" Panes="1" Pane-1="22"/>
+		<Pane-22 Type="4" DockingCX="590"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-24 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-25 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="26"/>
+		<Pane-26 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="5" Direction="0" Panes="1" Pane-1="29"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="600" Panes="3" Selected="12" Pane-1="6" Pane-2="13" Pane-3="12"/>
+		<Pane-30 Type="3" WindowRectTopPos="195" WindowRectBottomPos="395" WindowRectLeftPos="641" WindowRectRightPos="991" ExpandedHeight="200" TopContaner="31"/>
+		<Pane-31 Type="2" DockingCX="350" DockingCY="200" Horiz="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+	</FEAResultsPart>
+	<DMPart-IPA OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="デザイン\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="2" Pane-1="16" Pane-2="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="1290" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="218" WindowRectBottomPos="1464" WindowRectLeftPos="721" WindowRectRightPos="1230" ExpandedHeight="1287" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="9" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+	</DMPart-IPA>
+	<Studio OutOfBox="0">
+		<Summary Panes="63" TopContainer="31" Client="44"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="45" LastHolder="45"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="45" LastHolder="45"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="46" LastHolder="46"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="47" LastHolder="47" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="41" LastHolder="41"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="48" LastHolder="48"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="40" FloatingHolder="57" LastHolder="57"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="39" LastHolder="39"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="39" LastHolder="39"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="34" LastHolder="34"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="39" LastHolder="39"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="39" LastHolder="39"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="39" LastHolder="39"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="38" LastHolder="38"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="49" LastHolder="49"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="50" LastHolder="50"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="100" Options="32" DockingHolder="37" FloatingHolder="60" LastHolder="60"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="36" LastHolder="36"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="オルタネイトアセンブリ\n\n" ID="104" DockingHolder="34" LastHolder="34"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="36" LastHolder="36"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="選択のツール\n\n" ID="103" DockingHolder="34" LastHolder="34"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="116" DockingHolder="35" LastHolder="35"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="36" LastHolder="36"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="51" LastHolder="51"/>
+		<Pane-25 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="52" LastHolder="52"/>
+		<Pane-26 Type="0" DockingCX="225" DockingCY="200" Title="分解表示パスファインダ\n\n" ID="112" DockingHolder="34" FloatingHolder="63" LastHolder="63"/>
+		<Pane-27 Type="0" DockingCX="250" DockingCY="600" Title="事前定義のアーカイブ\n\n" ID="114" DockingHolder="33" FloatingHolder="63" LastHolder="63"/>
+		<Pane-28 Type="0" DockingCX="250" DockingCY="600" Title="セッションエンティティ\n\n" ID="113" DockingHolder="32" FloatingHolder="63" LastHolder="63"/>
+		<Pane-29 Type="5" Direction="1" Panes="1" Pane-1="30"/>
+		<Pane-30 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="25" Pane-1="2" Pane-2="25"/>
+		<Pane-31 Type="2" Horiz="1" Panes="16" Pane-1="32" Pane-2="33" Pane-3="34" Pane-4="35" Pane-5="36" Pane-6="37" Pane-7="38" Pane-8="39" Pane-9="40" Pane-10="41" Pane-11="42" Pane-12="48" Pane-13="49" Pane-14="50" Pane-15="51" Pane-16="52"/>
+		<Pane-32 Type="1" DockingCX="250" DockingCY="600" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="250" DockingCY="600" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="200" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-38 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-42 Type="2" DockingCX="1203" Panes="2" Pane-1="43" Pane-2="47"/>
+		<Pane-43 Type="2" DockingCY="1298" Horiz="1" Panes="3" Pane-1="44" Pane-2="45" Pane-3="46"/>
+		<Pane-44 Type="4" DockingCX="590"/>
+		<Pane-45 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-48 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-49 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-50 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-51 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-52 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-53 Type="5" Direction="0" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="200" Panes="3" Selected="10" Pane-1="19" Pane-2="10" Pane-3="21"/>
+		<Pane-55 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="56"/>
+		<Pane-56 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="57"/>
+		<Pane-57 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-58 Type="3" WindowRectTopPos="210" WindowRectBottomPos="1464" WindowRectLeftPos="750" WindowRectRightPos="1259" TopContaner="59"/>
+		<Pane-59 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="60"/>
+		<Pane-60 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="17" Pane-1="17"/>
+		<Pane-61 Type="3" WindowRectTopPos="210" WindowRectBottomPos="1464" WindowRectLeftPos="750" WindowRectRightPos="1259" TopContaner="62"/>
+		<Pane-62 Type="2" DockingCX="225" DockingCY="200" Horiz="1" Panes="1" Pane-1="63"/>
+		<Pane-63 Type="1" DockingCX="225" DockingCY="200" Panes="3" Selected="28" Pane-1="26" Pane-2="27" Pane-3="28"/>
+	</Studio>
+	<LayoutInPart-asm OutOfBox="0">
+		<Summary Panes="44" TopContainer="21" Client="30"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="31" LastHolder="31"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="31" LastHolder="31"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="32" LastHolder="32"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="33" LastHolder="33" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="プロファイルの終了\n\n" ID="400" Options="1" DockingHolder="27" LastHolder="27"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="34" LastHolder="34"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="26" FloatingHolder="39" LastHolder="39"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="25" LastHolder="25"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="25" LastHolder="25"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="25" LastHolder="25"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="25" LastHolder="25"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="25" LastHolder="25"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="25" LastHolder="25"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="24" LastHolder="24"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="35" LastHolder="35"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="36" LastHolder="36"/>
+		<Pane-17 Type="0" DockingCX="250" DockingCY="200" Title="パスファインダ\n\n" ID="100" Options="32" DockingHolder="23" FloatingHolder="44" LastHolder="44"/>
+		<Pane-18 Type="0" DockingCX="250" DockingCY="200" Title="パーツライブラリ\n\n" ID="101" DockingHolder="22" LastHolder="22"/>
+		<Pane-19 Type="5" Direction="1" Panes="1" Pane-1="20"/>
+		<Pane-20 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="2" Pane-1="16" Pane-2="2"/>
+		<Pane-21 Type="2" Horiz="1" Panes="10" Pane-1="22" Pane-2="23" Pane-3="24" Pane-4="25" Pane-5="26" Pane-6="27" Pane-7="28" Pane-8="34" Pane-9="35" Pane-10="36"/>
+		<Pane-22 Type="1" DockingCX="250" DockingCY="200" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="250" DockingCY="200" Panes="0"/>
+		<Pane-24 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-25 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-26 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-27 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-28 Type="2" Panes="2" Pane-1="29" Pane-2="33"/>
+		<Pane-29 Type="2" DockingCY="1293" Horiz="1" Panes="3" Pane-1="30" Pane-2="31" Pane-3="32"/>
+		<Pane-30 Type="4" DockingCX="590"/>
+		<Pane-31 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-34 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-36 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-37 Type="3" WindowRectTopPos="171" WindowRectBottomPos="1475" WindowRectLeftPos="637" WindowRectRightPos="1194" TopContaner="38"/>
+		<Pane-38 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="39"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="5" Direction="0" Panes="1" Pane-1="41"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="600" Panes="2" Selected="10" Pane-1="10" Pane-2="18"/>
+		<Pane-42 Type="3" WindowRectTopPos="213" WindowRectBottomPos="1462" WindowRectLeftPos="594" WindowRectRightPos="983" TopContaner="43"/>
+		<Pane-43 Type="2" DockingCX="250" DockingCY="200" Horiz="1" Panes="1" Pane-1="44"/>
+		<Pane-44 Type="1" DockingCX="250" DockingCY="200" Panes="1" Selected="17" Pane-1="17"/>
+	</LayoutInPart-asm>
+	<UnifiedSheetMetal-IPA OutOfBox="0">
+		<Summary Panes="39" TopContainer="20" Client="27"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="28" LastHolder="28"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="28" LastHolder="28"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="29" LastHolder="29"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="30" LastHolder="30" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="終了して戻る\n\n" ID="400" Options="1" DockingHolder="24" LastHolder="24"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="31" LastHolder="31"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="23" FloatingHolder="39" LastHolder="39"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="22" LastHolder="22"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="22" LastHolder="22"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="22" LastHolder="22"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="22" LastHolder="22"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="22" LastHolder="22"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="22" LastHolder="22"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="21" LastHolder="21"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="32" LastHolder="32"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="33" LastHolder="33"/>
+		<Pane-17 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="34" LastHolder="34"/>
+		<Pane-18 Type="5" Direction="1" Panes="1" Pane-1="19"/>
+		<Pane-19 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="17" Pane-2="1" Pane-3="2"/>
+		<Pane-20 Type="2" Horiz="1" Panes="9" Pane-1="21" Pane-2="22" Pane-3="23" Pane-4="24" Pane-5="25" Pane-6="31" Pane-7="32" Pane-8="33" Pane-9="34"/>
+		<Pane-21 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-24 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-25 Type="2" Panes="2" Pane-1="26" Pane-2="30"/>
+		<Pane-26 Type="2" DockingCY="1256" Horiz="1" Panes="3" Pane-1="27" Pane-2="28" Pane-3="29"/>
+		<Pane-27 Type="4" DockingCX="590"/>
+		<Pane-28 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-35 Type="5" Direction="0" Panes="1" Pane-1="36"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-37 Type="3" WindowRectTopPos="220" WindowRectBottomPos="1432" WindowRectLeftPos="760" WindowRectRightPos="1189" TopContaner="38"/>
+		<Pane-38 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="39"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</UnifiedSheetMetal-IPA>
+	<SheetMetal-IPA OutOfBox="0">
+		<Summary Panes="39" TopContainer="20" Client="27"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="28" LastHolder="28"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="28" LastHolder="28"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="29" LastHolder="29"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="30" LastHolder="30" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="終了して戻る\n\n" ID="400" Options="1" DockingHolder="24" LastHolder="24"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="31" LastHolder="31"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="23" FloatingHolder="39" LastHolder="39"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="22" LastHolder="22"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="22" LastHolder="22"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="22" LastHolder="22"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="22" LastHolder="22"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="22" LastHolder="22"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="22" LastHolder="22"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="21" LastHolder="21"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="32" LastHolder="32"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="33" LastHolder="33"/>
+		<Pane-17 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="34" LastHolder="34"/>
+		<Pane-18 Type="5" Direction="1" Panes="1" Pane-1="19"/>
+		<Pane-19 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="17" Pane-2="1" Pane-3="2"/>
+		<Pane-20 Type="2" Horiz="1" Panes="9" Pane-1="21" Pane-2="22" Pane-3="23" Pane-4="24" Pane-5="25" Pane-6="31" Pane-7="32" Pane-8="33" Pane-9="34"/>
+		<Pane-21 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-24 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-25 Type="2" Panes="2" Pane-1="26" Pane-2="30"/>
+		<Pane-26 Type="2" DockingCY="1256" Horiz="1" Panes="3" Pane-1="27" Pane-2="28" Pane-3="29"/>
+		<Pane-27 Type="4" DockingCX="590"/>
+		<Pane-28 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-35 Type="5" Direction="0" Panes="1" Pane-1="36"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-37 Type="3" WindowRectTopPos="220" WindowRectBottomPos="1432" WindowRectLeftPos="760" WindowRectRightPos="1189" TopContaner="38"/>
+		<Pane-38 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="39"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</SheetMetal-IPA>
+	<UnifiedSheetMetal OutOfBox="0">
+		<Summary Panes="39" TopContainer="20" Client="27"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="28" LastHolder="28"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="28" LastHolder="28"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="29" LastHolder="29"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="30" LastHolder="30" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="選択\n\n" ID="400" Options="1" DockingHolder="24" LastHolder="24"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="31" LastHolder="31"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="23" FloatingHolder="39" LastHolder="39"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="22" LastHolder="22"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="22" LastHolder="22"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="22" LastHolder="22"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="22" LastHolder="22"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="22" LastHolder="22"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="22" LastHolder="22"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="21" LastHolder="21"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="32" LastHolder="32"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="33" LastHolder="33"/>
+		<Pane-17 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="34" LastHolder="34"/>
+		<Pane-18 Type="5" Direction="1" Panes="1" Pane-1="19"/>
+		<Pane-19 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="17" Pane-2="1" Pane-3="2"/>
+		<Pane-20 Type="2" Horiz="1" Panes="9" Pane-1="21" Pane-2="22" Pane-3="23" Pane-4="24" Pane-5="25" Pane-6="31" Pane-7="32" Pane-8="33" Pane-9="34"/>
+		<Pane-21 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-24 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-25 Type="2" Panes="2" Pane-1="26" Pane-2="30"/>
+		<Pane-26 Type="2" DockingCY="661" Horiz="1" Panes="3" Pane-1="27" Pane-2="28" Pane-3="29"/>
+		<Pane-27 Type="4" DockingCX="590"/>
+		<Pane-28 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-35 Type="5" Direction="0" Panes="1" Pane-1="36"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-37 Type="3" WindowRectTopPos="-734" WindowRectBottomPos="-77" WindowRectLeftPos="-1571" WindowRectRightPos="-1142" TopContaner="38"/>
+		<Pane-38 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="39"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</UnifiedSheetMetal>
+	<SheetMetal OutOfBox="0">
+		<Summary Panes="39" TopContainer="20" Client="27"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="28" LastHolder="28"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="28" LastHolder="28"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="29" LastHolder="29"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="30" LastHolder="30" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="選択\n\n" ID="400" Options="1" DockingHolder="24" LastHolder="24"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="31" LastHolder="31"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="23" FloatingHolder="39" LastHolder="39"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="22" LastHolder="22"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="22" LastHolder="22"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="22" LastHolder="22"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="22" LastHolder="22"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="22" LastHolder="22"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="22" LastHolder="22"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="21" LastHolder="21"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="32" LastHolder="32"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="33" LastHolder="33"/>
+		<Pane-17 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="34" LastHolder="34"/>
+		<Pane-18 Type="5" Direction="1" Panes="1" Pane-1="19"/>
+		<Pane-19 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="17" Pane-2="1" Pane-3="2"/>
+		<Pane-20 Type="2" Horiz="1" Panes="9" Pane-1="21" Pane-2="22" Pane-3="23" Pane-4="24" Pane-5="25" Pane-6="31" Pane-7="32" Pane-8="33" Pane-9="34"/>
+		<Pane-21 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-24 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-25 Type="2" Panes="2" Pane-1="26" Pane-2="30"/>
+		<Pane-26 Type="2" DockingCY="661" Horiz="1" Panes="3" Pane-1="27" Pane-2="28" Pane-3="29"/>
+		<Pane-27 Type="4" DockingCX="590"/>
+		<Pane-28 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-30 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-34 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-35 Type="5" Direction="0" Panes="1" Pane-1="36"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+		<Pane-37 Type="3" WindowRectTopPos="-734" WindowRectBottomPos="-77" WindowRectLeftPos="-1571" WindowRectRightPos="-1142" TopContaner="38"/>
+		<Pane-38 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="39"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</SheetMetal>
+	<DrawingViewEdit OutOfBox="0">
+		<Summary Panes="60" TopContainer="33" Client="44"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="45" LastHolder="45"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="45" LastHolder="45"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="46" LastHolder="46"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="47" LastHolder="47" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="環境を終了\n\n" ID="400" Options="1" DockingHolder="41" LastHolder="41"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="48" LastHolder="48"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="40" FloatingHolder="57" LastHolder="57"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="39" LastHolder="39"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="39" LastHolder="39"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="36" LastHolder="36"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="39" LastHolder="39"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="39" LastHolder="39"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="39" LastHolder="39"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="38" LastHolder="38"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="49" LastHolder="49"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="50" LastHolder="50"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="37" FloatingHolder="60" LastHolder="60"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="36" LastHolder="36"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="104" DockingHolder="36" LastHolder="36"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="36" LastHolder="36"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="103" DockingHolder="36" LastHolder="36"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="116" DockingHolder="35" LastHolder="35"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="36" LastHolder="36"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="51" LastHolder="51"/>
+		<Pane-25 Type="0" DockingCX="225" DockingCY="600" Title="ライブラリ\n\n" ID="302" DockingHolder="34" LastHolder="34"/>
+		<Pane-26 Type="0" DockingCX="225" DockingCY="600" Title="グループ\n\n" ID="300" DockingHolder="34" LastHolder="34"/>
+		<Pane-27 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="301" DockingHolder="34" LastHolder="34"/>
+		<Pane-28 Type="0" DockingCX="225" DockingCY="600" Title="クエリー\n\n" ID="303" DockingHolder="34" LastHolder="34"/>
+		<Pane-29 Type="0" DockingCX="225" DockingCY="600" Title="Teamcenterライブラリ\n\n" ID="304" DockingHolder="34" LastHolder="34"/>
+		<Pane-30 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="52" LastHolder="52"/>
+		<Pane-31 Type="5" Direction="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="1" Pane-1="30" Pane-2="2" Pane-3="1"/>
+		<Pane-33 Type="2" Horiz="1" Panes="14" Pane-1="34" Pane-2="35" Pane-3="36" Pane-4="37" Pane-5="38" Pane-6="39" Pane-7="40" Pane-8="41" Pane-9="42" Pane-10="48" Pane-11="49" Pane-12="50" Pane-13="51" Pane-14="52"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-38 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-42 Type="2" DockingCX="2288" Panes="2" Pane-1="43" Pane-2="47"/>
+		<Pane-43 Type="2" DockingCY="1285" Horiz="1" Panes="3" Pane-1="44" Pane-2="45" Pane-3="46"/>
+		<Pane-44 Type="4" DockingCX="590"/>
+		<Pane-45 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-48 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-49 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-50 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-51 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-52 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-53 Type="5" Direction="0" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="600" Panes="4" Selected="27" Pane-1="25" Pane-2="26" Pane-3="27" Pane-4="28"/>
+		<Pane-55 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="56"/>
+		<Pane-56 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="57"/>
+		<Pane-57 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-58 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="59"/>
+		<Pane-59 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="60"/>
+		<Pane-60 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+	</DrawingViewEdit>
+	<LayoutInPart-IPA OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="プロファイルの終了\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="609" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="210" WindowRectBottomPos="775" WindowRectLeftPos="38" WindowRectRightPos="467" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="4" Selected="8" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="12"/>
+	</LayoutInPart-IPA>
+	<UnifiedPart-IPA OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="終了して戻る\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="609" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="210" WindowRectBottomPos="775" WindowRectLeftPos="38" WindowRectRightPos="467" ExpandedHeight="1287" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="9" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+	</UnifiedPart-IPA>
+	<Part-IPA OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="終了して戻る\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="609" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="210" WindowRectBottomPos="775" WindowRectLeftPos="38" WindowRectRightPos="467" ExpandedHeight="1287" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="9" Pane-1="8" Pane-2="9" Pane-3="10" Pane-4="11" Pane-5="12" Pane-6="13" Pane-7="14"/>
+	</Part-IPA>
+	<LayoutInPart OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="プロファイルの終了\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="22" FloatingHolder="37" LastHolder="37"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="1269" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="5" Direction="0" Panes="1" Pane-1="34"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="4" Selected="10" Pane-1="10" Pane-2="8" Pane-3="9" Pane-4="12"/>
+		<Pane-35 Type="3" WindowRectTopPos="222" WindowRectBottomPos="1447" WindowRectLeftPos="673" WindowRectRightPos="1102" TopContaner="36"/>
+		<Pane-36 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+	</LayoutInPart>
+	<Assembly OutOfBox="0">
+		<Summary Panes="58" TopContainer="36" Client="47"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="48" LastHolder="48"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="48" LastHolder="48"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="49" LastHolder="49"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="55" FloatingHolder="58" LastHolder="55" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="選択\n\n" ID="400" Options="1" DockingHolder="44" LastHolder="44"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="50" LastHolder="50"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="43" FloatingHolder="32" LastHolder="32"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="42" LastHolder="42"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="42" LastHolder="42"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="40" LastHolder="40"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="42" LastHolder="42"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="42" LastHolder="42"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="42" LastHolder="42"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="41" LastHolder="41"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="51" LastHolder="51"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="52" LastHolder="52"/>
+		<Pane-17 Type="0" DockingCX="418" DockingCY="600" Title="パスファインダ\n\n" ID="100" Options="32" DockingHolder="38" FloatingHolder="35" LastHolder="35"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="40" LastHolder="40"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="オルタネイトアセンブリ\n\n" ID="104" DockingHolder="40" LastHolder="40"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="40" LastHolder="40"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="選択のツール\n\n" ID="103" DockingHolder="40" LastHolder="40"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="116" DockingHolder="39" LastHolder="39"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="40" LastHolder="40"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="53" LastHolder="53"/>
+		<Pane-25 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="54" LastHolder="54"/>
+		<Pane-26 Type="5" Direction="1" Panes="1" Pane-1="27"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="25" Pane-2="1" Pane-3="2"/>
+		<Pane-28 Type="5" Direction="0" Panes="1" Pane-1="29"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="600" Panes="6" Selected="18" Pane-1="18" Pane-2="19" Pane-3="10" Pane-4="20" Pane-5="21" Pane-6="22"/>
+		<Pane-30 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="31"/>
+		<Pane-31 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="222" WindowRectBottomPos="1447" WindowRectLeftPos="673" WindowRectRightPos="1102" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="418" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="418" DockingCY="600" Panes="1" Selected="17" Pane-1="17"/>
+		<Pane-36 Type="2" DockingCX="1851" Panes="2" Pane-1="37" Pane-2="55"/>
+		<Pane-37 Type="2" DockingCY="1269" Horiz="1" Panes="13" Pane-1="38" Pane-2="39" Pane-3="40" Pane-4="41" Pane-5="42" Pane-6="43" Pane-7="44" Pane-8="45" Pane-9="50" Pane-10="51" Pane-11="52" Pane-12="53" Pane-13="54"/>
+		<Pane-38 Type="1" DockingCX="418" DockingCY="600" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-42 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-43 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-44 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-45 Type="2" DockingCX="1429" Panes="1" Pane-1="46"/>
+		<Pane-46 Type="2" DockingCY="1298" Horiz="1" Panes="3" Pane-1="47" Pane-2="48" Pane-3="49"/>
+		<Pane-47 Type="4" DockingCX="1239"/>
+		<Pane-48 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-49 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-50 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-51 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-52 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-53 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-54 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-55 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-56 Type="3" WindowRectTopPos="850" WindowRectBottomPos="904" WindowRectLeftPos="29" WindowRectRightPos="254" TopContaner="57"/>
+		<Pane-57 Type="2" DockingCX="225" DockingCY="45" Horiz="1" Panes="1" Pane-1="58"/>
+		<Pane-58 Type="1" DockingCX="225" DockingCY="45" Panes="0"/>
+	</Assembly>
+	<UnifiedPart OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="選択\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" DockingCX="1664" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="1269" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="222" WindowRectBottomPos="1447" WindowRectLeftPos="673" WindowRectRightPos="1102" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="12" Pane-1="10" Pane-2="11" Pane-3="12" Pane-4="14" Pane-5="13" Pane-6="8" Pane-7="9"/>
+	</UnifiedPart>
+	<Part OutOfBox="0">
+		<Summary Panes="37" TopContainer="19" Client="26"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="27" LastHolder="27"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="27" LastHolder="27"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="28" LastHolder="28"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="29" LastHolder="29" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="選択\n\n" ID="400" Options="1" DockingHolder="23" LastHolder="23"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="30" LastHolder="30"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="22" FloatingHolder="35" LastHolder="35"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="21" LastHolder="21"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリー\n\n" ID="203" DockingHolder="21" LastHolder="21"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="21" LastHolder="21"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="21" LastHolder="21"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="21" LastHolder="21"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="21" LastHolder="21"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastranログビューア\n\n" ID="212" DockingHolder="20" LastHolder="20"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="31" LastHolder="31"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="32" LastHolder="32"/>
+		<Pane-17 Type="5" Direction="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="16" Pane-2="1" Pane-3="2"/>
+		<Pane-19 Type="2" Horiz="1" Panes="8" Pane-1="20" Pane-2="21" Pane-3="22" Pane-4="23" Pane-5="24" Pane-6="30" Pane-7="31" Pane-8="32"/>
+		<Pane-20 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-21 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-23 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-24 Type="2" DockingCX="1664" Panes="2" Pane-1="25" Pane-2="29"/>
+		<Pane-25 Type="2" DockingCY="1269" Horiz="1" Panes="3" Pane-1="26" Pane-2="27" Pane-3="28"/>
+		<Pane-26 Type="4" DockingCX="590"/>
+		<Pane-27 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-28 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-29 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-30 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-31 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-32 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-33 Type="3" WindowRectTopPos="222" WindowRectBottomPos="1447" WindowRectLeftPos="673" WindowRectRightPos="1102" TopContaner="34"/>
+		<Pane-34 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="35"/>
+		<Pane-35 Type="1" DockingCX="225" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-36 Type="5" Direction="0" Panes="1" Pane-1="37"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="7" Selected="12" Pane-1="10" Pane-2="11" Pane-3="12" Pane-4="14" Pane-5="13" Pane-6="8" Pane-7="9"/>
+	</Part>
+	<Application OutOfBox="0">
+		<Summary Panes="19" TopContainer="10" Client="14"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="15" LastHolder="15"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="15" LastHolder="15"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="16" LastHolder="16"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="17" LastHolder="17"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="\n\n" ID="400" Options="1" DockingHolder="11" LastHolder="11"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="18" LastHolder="18"/>
+		<Pane-7 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="19" LastHolder="19"/>
+		<Pane-8 Type="5" Direction="1" Panes="1" Pane-1="9"/>
+		<Pane-9 Type="1" DockingCX="650" DockingCY="600" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-10 Type="2" Horiz="1" Panes="4" Pane-1="11" Pane-2="12" Pane-3="18" Pane-4="19"/>
+		<Pane-11 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-12 Type="2" DockingCX="1033" Panes="2" Pane-1="13" Pane-2="17"/>
+		<Pane-13 Type="2" Horiz="1" Panes="3" Pane-1="14" Pane-2="15" Pane-3="16"/>
+		<Pane-14 Type="4" DockingCX="1221"/>
+		<Pane-15 Type="1" DockingCX="650" DockingCY="600" Panes="2" Selected="1" Pane-1="2" Pane-2="1"/>
+		<Pane-16 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-17 Type="1" DockingCX="225" DockingCY="45" Panes="0"/>
+		<Pane-18 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-19 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+	</Application>
+	<Detail OutOfBox="0">
+		<Summary Panes="60" TopContainer="33" Client="44"/>
+		<Pane-1 Type="0" DockingCX="650" DockingCY="600" Title="Solid Edgeのヘルプ\n\n" ID="401" DockingHolder="45" LastHolder="45"/>
+		<Pane-2 Type="0" DockingCX="650" DockingCY="600" Title="Knowledge Center\n\n" ID="403" DockingHolder="45" LastHolder="45"/>
+		<Pane-3 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526752" DockingHolder="46" LastHolder="46"/>
+		<Pane-4 Type="0" DockingCX="225" DockingCY="45" Title="プロンプトバー\n\n" ID="402" DockingHolder="47" LastHolder="47" MinTrackY="23" MaxTrackX="65535" MaxTrackY="23"/>
+		<Pane-5 Type="0" DockingCX="225" DockingCY="400" Title="閉じる(C)\n\n" ID="400" Options="1" DockingHolder="41" LastHolder="41"/>
+		<Pane-6 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526748" DockingHolder="48" LastHolder="48"/>
+		<Pane-7 Type="0" DockingCX="225" DockingCY="600" Title="パスファインダ\n\n" ID="200" Options="32" DockingHolder="40" FloatingHolder="57" LastHolder="57"/>
+		<Pane-8 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャライブラリ\n\n" ID="202" DockingHolder="39" LastHolder="39"/>
+		<Pane-9 Type="0" DockingCX="225" DockingCY="600" Title="パーツのファミリ\n\n" ID="203" DockingHolder="39" LastHolder="39"/>
+		<Pane-10 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="207" DockingHolder="36" LastHolder="36"/>
+		<Pane-11 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="204" DockingHolder="39" LastHolder="39"/>
+		<Pane-12 Type="0" DockingCX="225" DockingCY="600" Title="フィーチャの再生\n\n" ID="201" DockingHolder="39" LastHolder="39"/>
+		<Pane-13 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="210" DockingHolder="39" LastHolder="39"/>
+		<Pane-14 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="212" DockingHolder="38" LastHolder="38"/>
+		<Pane-15 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526751" DockingHolder="49" LastHolder="49"/>
+		<Pane-16 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526750" DockingHolder="50" LastHolder="50"/>
+		<Pane-17 Type="0" DockingCX="225" DockingCY="600" Title="PathFinder\n\n" ID="100" Options="32" DockingHolder="37" FloatingHolder="60" LastHolder="60"/>
+		<Pane-18 Type="0" DockingCX="225" DockingCY="600" Title="パーツライブラリ\n\n" ID="101" DockingHolder="36" LastHolder="36"/>
+		<Pane-19 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="104" DockingHolder="36" LastHolder="36"/>
+		<Pane-20 Type="0" DockingCX="225" DockingCY="600" Title="センサー\n\n" ID="102" DockingHolder="36" LastHolder="36"/>
+		<Pane-21 Type="0" DockingCX="225" DockingCY="600" Title="ツールを選択\n\n" ID="103" DockingHolder="36" LastHolder="36"/>
+		<Pane-22 Type="0" DockingCX="350" DockingCY="200" Title="NX Nastran Log Viewer\n\n" ID="116" DockingHolder="35" LastHolder="35"/>
+		<Pane-23 Type="0" DockingCX="225" DockingCY="600" Title="シミュレーション\n\n" ID="115" DockingHolder="36" LastHolder="36"/>
+		<Pane-24 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526749" DockingHolder="51" LastHolder="51"/>
+		<Pane-25 Type="0" DockingCX="225" DockingCY="600" Title="ライブラリ\n\n" ID="302" DockingHolder="34" LastHolder="34"/>
+		<Pane-26 Type="0" DockingCX="225" DockingCY="600" Title="グループ\n\n" ID="300" DockingHolder="34" LastHolder="34"/>
+		<Pane-27 Type="0" DockingCX="225" DockingCY="600" Title="レイヤ\n\n" ID="301" DockingHolder="34" LastHolder="34"/>
+		<Pane-28 Type="0" DockingCX="225" DockingCY="600" Title="クエリー\n\n" ID="303" DockingHolder="34" LastHolder="34"/>
+		<Pane-29 Type="0" DockingCX="225" DockingCY="600" Title="Teamcenterライブラリ\n\n" ID="304" DockingHolder="34" LastHolder="34"/>
+		<Pane-30 Type="0" DockingCX="600" DockingCY="350" Title="YouTube\n\nYouTube" ID="1088526747" DockingHolder="52" LastHolder="52"/>
+		<Pane-31 Type="5" Direction="1" Panes="1" Pane-1="32"/>
+		<Pane-32 Type="1" DockingCX="650" DockingCY="600" Panes="3" Selected="2" Pane-1="30" Pane-2="1" Pane-3="2"/>
+		<Pane-33 Type="2" Horiz="1" Panes="14" Pane-1="34" Pane-2="35" Pane-3="36" Pane-4="37" Pane-5="38" Pane-6="39" Pane-7="40" Pane-8="41" Pane-9="42" Pane-10="48" Pane-11="49" Pane-12="50" Pane-13="51" Pane-14="52"/>
+		<Pane-34 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-35 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-36 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-37 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-38 Type="1" DockingCX="350" DockingCY="200" Panes="0"/>
+		<Pane-39 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-40 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-41 Type="1" DockingCX="225" DockingCY="400" Panes="0"/>
+		<Pane-42 Type="2" DockingCX="2288" Panes="2" Pane-1="43" Pane-2="47"/>
+		<Pane-43 Type="2" DockingCY="1269" Horiz="1" Panes="3" Pane-1="44" Pane-2="45" Pane-3="46"/>
+		<Pane-44 Type="4" DockingCX="590"/>
+		<Pane-45 Type="1" DockingCX="650" DockingCY="600" Panes="0"/>
+		<Pane-46 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-47 Type="1" DockingCX="225" DockingCY="45" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-48 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-49 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-50 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-51 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-52 Type="1" DockingCX="600" DockingCY="350" Panes="0"/>
+		<Pane-53 Type="5" Direction="0" Panes="1" Pane-1="54"/>
+		<Pane-54 Type="1" DockingCX="225" DockingCY="600" Panes="4" Selected="27" Pane-1="25" Pane-2="26" Pane-3="27" Pane-4="28"/>
+		<Pane-55 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="56"/>
+		<Pane-56 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="57"/>
+		<Pane-57 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+		<Pane-58 Type="3" WindowRectTopPos="144" WindowRectBottomPos="947" WindowRectLeftPos="29" WindowRectRightPos="279" TopContaner="59"/>
+		<Pane-59 Type="2" DockingCX="225" DockingCY="600" Horiz="1" Panes="1" Pane-1="60"/>
+		<Pane-60 Type="1" DockingCX="225" DockingCY="600" Panes="0"/>
+	</Detail>
+	<ClosedByUser NumEnvironments="16">
+		<Environment Name="Global" NumPanes="3">
+			<Panes ID="402" Value="0"/>
+			<Panes ID="403" Value="0"/>
+			<Panes ID="401" Value="0"/>
+		</Environment>
+		<Environment Name="Assembly" NumPanes="3">
+			<Panes ID="100" Value="0"/>
+			<Panes ID="" Value="0"/>
+			<Panes ID="207" Value="0"/>
+		</Environment>
+		<Environment Name="Detail" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="FEAResultsPart" NumPanes="2">
+			<Panes ID="210" Value="0"/>
+			<Panes ID="212" Value="0"/>
+		</Environment>
+		<Environment Name="FEAResultsPart-IPA" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="Harness" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="LayoutInPart" NumPanes="1">
+			<Panes ID="200" Value="0"/>
+		</Environment>
+		<Environment Name="LayoutInPart-asm" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="LayoutInPart-IPA" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="Part" NumPanes="1">
+			<Panes ID="210" Value="0"/>
+		</Environment>
+		<Environment Name="Studio" NumPanes="2">
+			<Panes ID="" Value="0"/>
+			<Panes ID="207" Value="0"/>
+		</Environment>
+		<Environment Name="Tubing" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+		<Environment Name="UnifiedPart" NumPanes="8">
+			<Panes ID="200" Value="0"/>
+			<Panes ID="203" Value="0"/>
+			<Panes ID="204" Value="0"/>
+			<Panes ID="201" Value="0"/>
+			<Panes ID="210" Value="0"/>
+			<Panes ID="202" Value="0"/>
+			<Panes ID="212" Value="0"/>
+			<Panes ID="207" Value="0"/>
+		</Environment>
+		<Environment Name="UnifiedPart-IPA" NumPanes="7">
+			<Panes ID="" Value="0"/>
+			<Panes ID="202" Value="0"/>
+			<Panes ID="204" Value="0"/>
+			<Panes ID="207" Value="0"/>
+			<Panes ID="201" Value="0"/>
+			<Panes ID="210" Value="0"/>
+			<Panes ID="203" Value="0"/>
+		</Environment>
+		<Environment Name="UnifiedSheetMetal" NumPanes="1">
+			<Panes ID="200" Value="0"/>
+		</Environment>
+		<Environment Name="UnifiedSheetMetal-IPA" NumPanes="1">
+			<Panes ID="" Value="0"/>
+		</Environment>
+	</ClosedByUser>
+</DockingPaneLayouts>
