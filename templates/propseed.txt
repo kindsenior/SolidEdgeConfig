@@ -76,6 +76,7 @@ define 発注先;テキスト;
 define 表面処理;テキスト;
 define 対称性;テキスト;
 define 型番;テキスト;
+define ProcessType; テキスト;
 End Define Custom
 
 \\ 仕上げリストの内容
@@ -209,3 +210,11 @@ sym;
 asy-org;
 asy-mir;
 End 対称性
+
+\\ ProcessTypeの内容
+Begin ProcessType
+Add;
+Open;
+Skip;
+Exception;
+End ProcessType
